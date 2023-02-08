@@ -1,0 +1,9 @@
+numpy==1.22.1
+pandas==1.5.3
+matplotlib==3.6.3
+pymc3==3.11.5
+seaborn==0.12.2
+scipy==1.7.3
+jupyter==1.0.0
+watermark==2.3.1
+graphviz @ file:///home/conda/feedstock_root/build_artifacts/python-graphviz_1658658635601/work # conda install -c conda-forge python-graphviz
